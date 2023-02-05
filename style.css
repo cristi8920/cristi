@@ -1,0 +1,382 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: font;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 4828px;
+	font-family: font;
+	background-color: rgba(2,108,112,1);
+	overflow: hidden;
+	cursor: default;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: font;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#design {
+	position: absolute;
+	width: 1912px;
+	height: 1195px;
+	left: 8px;
+	top: 106.375px;
+	overflow: visible;
+}
+#Component_5__1 {
+	position: absolute;
+	width: 130px;
+	height: 40px;
+	left: 816px;
+	top: 39px;
+	overflow: visible;
+	transition: all 0.6000000238418579s wind-up;
+	--web-animation: fadein 0.6000000238418579s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+}
+#linie_luminoasa_contact {
+	position: absolute;
+	width: 130px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 130px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_4__1 {
+	position: absolute;
+	width: 163px;
+	height: 40px;
+	left: 557px;
+	top: 39px;
+	overflow: visible;
+	transition: all 0.6000000238418579s wind-up;
+	--web-animation: fadein 0.6000000238418579s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+}
+#linie_luminoasa_despre_noi {
+	position: absolute;
+	width: 163px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#linie_luminoasa_despre_noi_q {
+	position: absolute;
+	width: 163px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#LOGO_transparent_-_Copy {
+	position: absolute;
+	width: 252px;
+	height: 142px;
+	left: 24px;
+	top: 1px;
+	overflow: visible;
+}
+#n__doina {
+	position: absolute;
+	width: 554px;
+	height: 783px;
+	left: 1106px;
+	top: 514px;
+	overflow: visible;
+}
+#Component_3__1 {
+	position: absolute;
+	width: 97px;
+	height: 40px;
+	left: 364px;
+	top: 39px;
+	overflow: visible;
+}
+#Component_17__1 {
+	position: absolute;
+	width: 97px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#linie_luminoasa_acasa {
+	position: absolute;
+	width: 97px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_4 {
+	position: absolute;
+	width: 97px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#am {
+	mix-blend-mode: color-burn;
+	position: absolute;
+	width: 1615px;
+	height: 2284px;
+	left: -24px;
+	top: -134px;
+	overflow: visible;
+}
+#gudatelier {
+	left: 1478px;
+	top: 1231px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Astina, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(255,249,249,0.42);
+}
+#Pe_acest_site_veti_gasi_o_gale_ {
+	left: 91px;
+	top: 1580px;
+	position: absolute;
+	overflow: visible;
+	width: 1581px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -17.5px;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,0.42);
+	letter-spacing: 0.22px;
+}
+#Pe_acest_site_veti_gasi_o_gale_ {
+	left: 91px;
+	top: 1580px;
+	position: absolute;
+	overflow: visible;
+	width: 1581px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -17.5px;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,0.42);
+	letter-spacing: 0.22px;
+}
+#Rectangle_15 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1648px;
+	height: 57px;
+	left: 145px;
+	top: 1480px;
+}
+#Rectangle_24 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1648px;
+	height: 57px;
+	left: 145px;
+	top: 1877px;
+}
+#DECE_SA_ALEGI_GUDATELIER {
+	position: absolute;
+	width: 1772px;
+	height: 906px;
+	left: 68px;
+	top: 2688px;
+	overflow: visible;
+}
+#DE_CE_SA_ALEGI_GUDATELIER_PHOT {
+	left: 295px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 63px;
+	color: rgba(0,0,0,0.42);
+	letter-spacing: 0.22px;
+}
+#n_ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_ {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 661px;
+	left: 0px;
+	top: 245px;
+}
+#PRIMITI_FOTOGRAFIILE_NUNTII_IN {
+	left: 50px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,0.42);
+	letter-spacing: 0.22px;
+}
+#n__ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n__ {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 661px;
+	left: 630px;
+	top: 245px;
+}
+#SEDIN_FOTO_DUP_NUNT_FR_COST_SU {
+	left: 674px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 437px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,0.42);
+	letter-spacing: 0.22px;
+}
+#n__ba {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n__ba {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 661px;
+	left: 1259px;
+	top: 245px;
+}
+#BACKUP_PERMANENT_LA_TOATE_MATE {
+	left: 1328px;
+	top: 332px;
+	position: absolute;
+	overflow: visible;
+	width: 413px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Calibri, font;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,0.42);
+	letter-spacing: 0.22px;
+}
